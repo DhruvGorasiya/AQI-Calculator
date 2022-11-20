@@ -1,4 +1,4 @@
-# AQI-Calculator
+# AQI-Calculator (Python)
 
 •	Developed an Air Quality Index Calculator using Python that accurately determines the air quality based on the pollutant data supplied to the software and produces an output in accordance with the algorithm.
 
